@@ -1,5 +1,5 @@
 # A Dual-Purpose Refreshable Braille Display Based on Real Time Object Detection and Optical Character Recognition
-Official repository for Dual Purpose Refreshable Braille, ICECE 2019
+Official repository for Dual Purpose Refreshable Braille, SPICSCON 2019
 
 ## [Paper][paper]
 [paper]: http://naimulhassan.github.io/content/papers/braille.pdf
